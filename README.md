@@ -1,4 +1,4 @@
-# 💬 Gpt Chatbot for whatsapp business
+# 💬 GPT Chatbot for whatsapp business
 
 A chatbot that can be used by businesses to communicate with customers via Whatsapp SMS using the Twilio API and OpenAI's GPT-3 language model.
 
