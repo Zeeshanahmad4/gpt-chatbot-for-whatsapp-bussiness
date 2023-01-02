@@ -31,6 +31,8 @@
 
 This chatbot is designed to help ecommerce dropshippers or other businesses to communicate with their customers via Whatsapp SMS. It uses the Twilio API to send and receive SMS messages, and OpenAI's GPT-3 language model to generate responses to customer messages. The chatbot is able to answer customer questions, handle inquiries and complaints, provide personalized recommendations, send promotional messages, schedule appointments, process orders, send reminders, provide support, gather feedback, and provide information.
 
+* This is partial code it may needs refracting and training on specific data of yours to optmially work. let me know if you need any help in setting up this bot. 
+
 ## 📋 Features
 - Can trained on specific data of product descriptions and customer reviews. 
 - Communicates with customers via SMS using the Twilio API 📱
